@@ -14,6 +14,7 @@ driver = webdriver.Chrome(PATH)
 
 driver.get("techwithtim.net")
 
+
 print(driver.title)
 
 #Find search box on website
